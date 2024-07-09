@@ -1,4 +1,4 @@
-## Hi there, I'm Larissa 👋
+# Hi there, I'm Larissa 👋
 
 ### Financial Math Student | Aspiring Software Dev/Designer | Perpetual Learner
 
@@ -17,4 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###
+#### 🔭 I’m currently working on ...
+- Designs for my summer internship at an investment management firm, such as:
+  - Social media graphics
+  - Website templates for frequent use (think an event details site or a site for a specific fund)
+
+#### 🌱 I’m currently learning ...
+- p5.js
+  - See my projects on ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=replit&logoColor=blue) 
