@@ -24,10 +24,6 @@ Here are some ideas to get you started:
 
 #### 🌱 I’m currently learning ...
 - ![](https://img.shields.io/badge/p5.js-ED225D?style=flat&logo=p5dotjs&logoColor=white)
-- ![](https://img.shields.io/badge/p5.js-ED225D?style=flat-square&logo=p5dotjs&logoColor=white)
-- ![](https://img.shields.io/badge/p5.js-ED225D?style=plastic&logo=p5dotjs&logoColor=white)
-- ![](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white)
-- ![](https://img.shields.io/badge/p5.js-ED225D?style=social&logo=p5dotjs&logoColor=white)
-- Responsive web design (through freeCodeCamp)
+- Responsive web design (through ![](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat&logo=freecodecamp&logoColor=white))
 - Tailwind CSS
 - 
