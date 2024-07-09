@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 #### 🌱 I’m currently learning ...
 - p5.js
-  - See my projects on ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=replit&logoColor=blue) 
+  - See my projects on ![](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white) 
