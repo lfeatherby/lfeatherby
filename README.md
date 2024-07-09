@@ -23,7 +23,11 @@ Here are some ideas to get you started:
   - Website templates for frequent use (think an event details site or a site for a specific fund)
 
 #### 🌱 I’m currently learning ...
-- ![](https://img.shields.io/badge/p5.js-ED225D?style=flat&logo=python&logoColor=blue)
+- ![](https://img.shields.io/badge/p5.js-ED225D?style=flat&logo=p5dotjs&logoColor=white)
+- ![](https://img.shields.io/badge/p5.js-ED225D?style=flat-square&logo=p5dotjs&logoColor=white)
+- ![](https://img.shields.io/badge/p5.js-ED225D?style=plastic&logo=p5dotjs&logoColor=white)
+- ![](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white)
+- ![](https://img.shields.io/badge/p5.js-ED225D?style=social&logo=p5dotjs&logoColor=white)
 - Responsive web design (through freeCodeCamp)
 - Tailwind CSS
 - 
