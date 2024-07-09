@@ -1,4 +1,4 @@
-## Hi there, I'm Larissa 👋
+# Hi there, I'm Larissa 👋
 
 <!--
 **lfeatherby/lfeatherby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
