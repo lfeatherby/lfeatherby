@@ -1,6 +1,6 @@
 # Hi there, I'm Larissa 👋
 
-#### Financial Math Student | Aspiring Software Dev/Designer | Perpetual Learner
+##### Financial Math Student | Aspiring Software Dev/Designer | Perpetual Learner
 
 <!--
 **lfeatherby/lfeatherby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
