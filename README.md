@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   - Social media graphics
   - Website templates for frequent use (think an event details site or a site for a specific fund)
 - A colour picker/colour palette generator/gradient generator since a lot of the available resources are expensive.
-- A French version of this page 🇫🇷
+- A French version of this page 🇫🇷🇫🇷🇫🇷🇫🇷🇫🇷
 
 ### 🌱 I’m currently learning ...
 - ![](https://img.shields.io/badge/p5.js-ED225D?style=flat&logo=p5dotjs&logoColor=white&logoSize=auto) (by experimentation)
