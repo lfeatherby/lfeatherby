@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+badge-link ex: ([![](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat&logo=freecodecamp&logoColor=white&logoSize=auto)](https://www.freecodecamp.org/lfeatherby "My freeCodeCamp profile"))
 -->
 
 ### 🔭 I’m currently working on ...
-- Designs for my summer internship at an investment management firm, such as:
+- Designs for my summer internship (can't show these) at an investment management firm, such as:
   - Social media graphics
   - Website templates for frequent use (think an event details site or a site for a specific fund)
 - A colour picker/colour palette generator/gradient generator since a lot of the available resources are expensive.
@@ -41,3 +42,4 @@ Here are some ideas to get you started:
 ##### ⚡ Fun fact: When I'm not at my internship, I operate rides at a small amusement park on an island in my city.
 
 ### 📫 How to reach me: ...
+([![](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat&logo=freecodecamp&logoColor=white&logoSize=auto)](https://www.freecodecamp.org/lfeatherby "My freeCodeCamp profile"))
