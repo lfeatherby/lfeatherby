@@ -22,7 +22,7 @@ badge-link ex: ([![](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat
 - Designs for my summer internship (can't show these) at an investment management firm, such as:
   - Social media graphics
   - Website templates for frequent use (think an event details site or a site for a specific fund)
-- A colour picker/colour palette generator/gradient generator since a lot of the available resources are expensive.
+- A [colour picker/colour palette generator/gradient generator](https://lfeatherby.github.io/cpalette-generator/) since a lot of the available resources are expensive.
 - A French version of this page 🇫🇷
 
 
