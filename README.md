@@ -1,6 +1,6 @@
 # Hi there, I'm Larissa 👋
 
-##### Financial Math Student | Aspiring Software Dev/Designer | Perpetual Learner :neckbeard:
+##### Financial Math Student | Aspiring Software Dev/Designer | Perpetual Learner
 
 <!--
 **lfeatherby/lfeatherby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +25,6 @@ badge-link ex: ([![](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat
 - A [colour picker/colour palette generator/gradient generator](https://lfeatherby.github.io/cpalette-generator/) since a lot of the available resources are expensive.
 - A French version of this page 🇫🇷
 
-
 ##### ⚡ Fun fact: I'm fully bilingual
 
 ##     
@@ -44,7 +43,7 @@ badge-link ex: ([![](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat
 - My opinions on accessible resources for designers (I have many)
 
 
-##### ⚡ Fun fact: When I'm not at my internship, I operate rides at a small amusement park on an island in my city.
+##### ⚡ Fun fact: When I'm not at my internship, I operate rides at a small amusement park 🎢 on an island in my city.
 ##
 
 ### 📫 How to reach me: ...
