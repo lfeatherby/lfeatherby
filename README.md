@@ -1,6 +1,6 @@
 # Hi there, I'm Larissa 👋
 
-#### Financial Math Student | Aspiring Software Dev/Designer | Perpetual Learner 
+##### Financial Math Student | Aspiring Software Dev/Designer | Perpetual Learner 
 
 <!--
 **lfeatherby/lfeatherby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - A colour picker/colour palette generator/gradient generator since a lot of the available resources are expensive.
 - A French version of this page 🇫🇷
 
-#### ⚡ Fun fact: I'm fully bilingual
+##### ⚡ Fun fact: I'm fully bilingual
 
 ### 🌱 I’m currently learning ...
 - ![](https://img.shields.io/badge/p5.js-ED225D?style=flat&logo=p5dotjs&logoColor=white&logoSize=auto) (by experimentation)
@@ -32,12 +32,12 @@ Here are some ideas to get you started:
 - ![](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white&logoSize=auto) (by experimentation)
 - Visual design (through SuperHi)
 
-#### ⚡ Fun fact: I was a computer science student for two years before I switched to financial math
+##### ⚡ Fun fact: I was a computer science student for two years before I switched to financial math
 
 ### 💬 Ask me about ...
 - My SuperHi scholarship
 - My opinions on accessible resources for designers
 
-#### ⚡ Fun fact: When I'm not at my internship, I operate rides at a small amusement park on an island in my city.
+##### ⚡ Fun fact: When I'm not at my internship, I operate rides at a small amusement park on an island in my city.
 
 ### 📫 How to reach me: ...
