@@ -42,4 +42,4 @@ badge-link ex: ([![](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat
 ##### ⚡ Fun fact: When I'm not at my internship, I operate rides at a small amusement park on an island in my city.
 
 ### 📫 How to reach me: ...
-[![](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white&logoSize=auto)](mailto:larissafeatherby@gmail.com "Send me an email")
+[![](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white&logoSize=auto)](mailto:larissafeatherby@gmail.com "Send me an email") [![](https://img.shields.io/badge/Linkedin-EA4335?style=flat&logo=linkedin&logoColor=white&logoSize=auto)](https://www.linkedin.com/in/larissa-featherby/ "Connect with me on Linkedin")
