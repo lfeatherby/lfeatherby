@@ -54,5 +54,5 @@ badge-link ex: ([![](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat
 ##### ⚡ Fun fact: I can't juggle
 ##
 
-### 📫 How to reach me: ...
+### 📫 How to reach me ...
 [![](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white&logoSize=auto)](mailto:larissafeatherby@gmail.com "Send me an email") [![](https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white&logoSize=auto)](https://www.linkedin.com/in/larissa-featherby/ "Connect with me on Linkedin") [![](https://img.shields.io/badge/Replit-F26207?style=flat&logo=replit&logoColor=white&logoSize=auto)](https://replit.com/@LarissaFeath3rb "Check out my Repls")
