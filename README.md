@@ -25,12 +25,13 @@ badge-link ex: ([![](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat
 - A [colour picker/colour palette generator/gradient generator](https://lfeatherby.github.io/cpalette-generator/) since a lot of the available resources are expensive.
 - A French version of this page 🇫🇷
 
+
 ##### ⚡ Fun fact: I'm fully bilingual
 
 ##     
 ### 🌱 I’m currently learning ...
 - ![](https://img.shields.io/badge/p5.js-ED225D?style=flat&logo=p5dotjs&logoColor=white&logoSize=auto) (by experimentation)
-- Responsive web design (through [![](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat&logo=freecodecamp&logoColor=white&logoSize=auto)](https://www.freecodecamp.org/lfeatherby "My freeCodeCamp profile"))
+- JavaScript Algorithms and Data Structures (through [![](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat&logo=freecodecamp&logoColor=white&logoSize=auto)](https://www.freecodecamp.org/lfeatherby "My freeCodeCamp profile"))
 - ![](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white&logoSize=auto) (by experimentation)
 - Visual design (through SuperHi)
 
@@ -43,7 +44,14 @@ badge-link ex: ([![](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat
 - My opinions on accessible resources for designers (I have many)
 
 
-##### ⚡ Fun fact: When I'm not at my internship, I operate rides at a small amusement park 🎢 on an island in my city.
+##### ⚡ Fun fact: When I'm not at my internship, I operate rides at a small amusement park 🎢 on an island in my city
+##
+
+### ✔️ Recently I've ...
+- Completed my freeCodeCamp Responsive Web Design certification!
+
+  
+##### ⚡ Fun fact: I can't juggle
 ##
 
 ### 📫 How to reach me: ...
