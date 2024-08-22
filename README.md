@@ -34,7 +34,7 @@ badge-link ex: ([![](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat
 - JavaScript Algorithms and Data Structures (through [![](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat&logo=freecodecamp&logoColor=white&logoSize=auto)](https://www.freecodecamp.org/lfeatherby "My freeCodeCamp profile"))
 - ![](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white&logoSize=auto) (by experimentation)
 - Visual design (through SuperHi)
-- [![roadmap.sh](https://roadmap.sh/card/wide/66c34d11837d383f4a0bb0e0?variant=dark)](https://roadmap.sh)
+- [![roadmap.sh](https://roadmap.sh/card/tall/66c34d11837d383f4a0bb0e0?variant=dark&roadmaps=ux-design%2Cdesign-system%2Cfrontend)](https://roadmap.sh)
 
 
 ##### ⚡ Fun fact: I was a computer science student for two years before I switched to financial math
