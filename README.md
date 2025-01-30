@@ -19,14 +19,18 @@ badge-link ex: ([![](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat
 -->
 
 ### 🔭 I’m currently working on ...
-- Designs for my summer internship (can't show these) at an investment management firm, such as:
-  - Social media graphics
-  - Website templates for frequent use (think an event details site or a site for a specific fund)
 - A [colour picker/colour palette generator/gradient generator](https://lfeatherby.github.io/cpalette-generator/) since a lot of the available resources are expensive.
 - A French version of this page 🇫🇷
 
 
-##### ⚡ Fun fact: I'm fully bilingual
+##### ⚡ Fun fact: I'm bilingual!
+
+##
+### 📆 Some past projects include ...
+- Designs for my summer 2024 internship at an investment management firm, such as:
+  - Social media graphics
+  - Website templates for frequent use (think an event details site or a site for a specific fund)
+- Coursework for the graphic design elective I took for my degree (this one is on my page, feel free to check it out!)
 
 ##     
 ### 🌱 I’m currently learning ...
@@ -41,11 +45,11 @@ badge-link ex: ([![](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat
 ##
 
 ### 💬 Ask me about ...
-- My SuperHi scholarship
+- SuperHi
 - My opinions on accessible resources for designers (I have many)
 
 
-##### ⚡ Fun fact: When I'm not at my internship, I operate rides at a small amusement park 🎢 on an island in my city
+##### ⚡ Fun fact: When I'm wasn't at my internship, I operated rides at a small amusement park 🎢 on an island in my city
 ##
 
 ### ✔️ Recently I've ...
