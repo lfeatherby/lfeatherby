@@ -49,7 +49,7 @@ badge-link ex: ([![](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat
 - My opinions on accessible resources for designers (I have many)
 
 
-##### ⚡ Fun fact: When I'm wasn't at my internship, I operated rides at a small amusement park 🎢 on an island in my city
+##### ⚡ Fun fact: When I wasn't at my internship, I operated rides at a small amusement park 🎢 on an island in my city
 ##
 
 ### ✔️ Recently I've ...
