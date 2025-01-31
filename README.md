@@ -32,6 +32,8 @@ badge-link ex: ([![](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat
   - Website templates for frequent use (think an event details site or a site for a specific fund)
 - Coursework for the graphic design elective I took for my degree (this one is on my page, feel free to check it out!)
 
+
+##### ⚡ Fun fact: In 2024 I read 186 books 📖!
 ##     
 ### 🌱 I’m currently learning ...
 - ![](https://img.shields.io/badge/p5.js-ED225D?style=flat&logo=p5dotjs&logoColor=white&logoSize=auto) (by experimentation)
