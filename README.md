@@ -27,7 +27,7 @@ badge-link ex: ([![](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat
 
 ##
 ### 📆 Some past projects include ...
-- Designs for my summer 2024 internship at an investment management firm, such as:
+- Designs for my summer 2024/2025 internship at an investment management firm, such as:
   - Social media graphics
   - Website templates for frequent use (think an event details site or a site for a specific fund)
 - Coursework for the graphic design elective I took for my degree (this one is on my page, feel free to check it out!)
